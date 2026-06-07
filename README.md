@@ -29,12 +29,11 @@ Smart Task Manager is a Full Stack Web Application developed using React.js and 
 
 ### Home Page
 
-C:\Users\hp\OneDrive\Desktop\task-manager\Screensort\login page.png
+![Home Page](Screensort/login-page.png)
 
 ### Add Task Feature
 
-C:\Users\hp\OneDrive\Desktop\task-manager\Screensort\add task.png
-
+![Add Task](Screensort/add-task.png)
 ## Learning Outcomes
 
 * React Hooks
